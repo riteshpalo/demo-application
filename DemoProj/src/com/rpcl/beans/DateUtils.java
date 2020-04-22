@@ -10,5 +10,6 @@ public class DateUtils {
 	
 	public void m1() {
 		System.out.println("DateUtils.m1()");
+		System.out.println("DateUtils.m1()abcd");
 	}
 }
