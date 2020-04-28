@@ -12,4 +12,8 @@ public class DateUtils {
 		System.out.println("DateUtils.m1()");
 		System.out.println("DateUtils.m1()abcd");
 	}
+	
+	public void m3() {
+		System.out.println("DateUtils.m3()");
+	}
 }
